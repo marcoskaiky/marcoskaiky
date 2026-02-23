@@ -15,19 +15,19 @@ Back-End Developer focused on building and improving scalable systems.
 -  Undergraduate student in Internet Systems at Unialfa
 -  Constantly improving my English and technical skills
 
----
+
 
 ## 🛠️ Tech Stack
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=typescript,javascript,nodejs,aws,docker,lambda,java,python,php,plsql,react,vuejs&titles=true)
 
----
+
 
 ## Contact
 
 -  LinkedIn: Marcos Kaiky  
 -  Instagram: @marcosrogarcia   
-- 📧 Email: mkaikygarcia@gmail.com  
+-  Email: mkaikygarcia@gmail.com  
 
 
 <img src="https://www.codewars.com/users/marcoskaiky/badges/large" />

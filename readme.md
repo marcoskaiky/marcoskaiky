@@ -15,5 +15,5 @@
 
  my skills: <br>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=typescript,javascript,nodejs,aws,docker,lambda,java,python,php,plsql,react,vue,langchainjs&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=typescript,javascript,nodejs,aws,docker,lambda,java,python,php,plsql,react,vue,langchain&titles=true)
  

@@ -6,11 +6,7 @@ Back-End Developer focused on building and improving scalable systems.
 - JavaScript / TypeScript
 - Node.js
 - Vue.js
-- AWS (Lambda, Cloud, etc.)
-
-☕ Currently diving deeper into Java — my favorite language.
-
----
+- AWS 
 
 ##  About Me
 

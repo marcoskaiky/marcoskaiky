@@ -1,28 +1,22 @@
-Back-End Developer focused on building and improving scalable systems.
+-- help --info <br>
+ I am a fan of The Witcher saga and technology. I currently work with JavaScript, TypeScript, Node, Vue, and AWS as a Back-End Developer. <br>
+ I am also developing my skills in Java, which is my favorite language. <br>
+ I enjoy solving problems and bugs in general. I like building new things, but I prefer working on and improving existing codebases. <br>
+ I am currently an undergraduate student in Internet Systems at Unialfa. <br>
+ I am currently improving my English and growing as a professional. <br>
 
-💻 I work mainly with:
-- JavaScript / TypeScript
-- Node.js
-- Vue.js
-- AWS 
 
-##  About Me
+-- help --contact <br>
+ linkedin: Marcos Kaiky <br>
+ instagram: marcosrogarcia <br>
+ github: marcoskaiky <br>
+ medium: @marcosSan <br>
+ mail: mkaikygarcia@gmail.com <br>
 
--  Strong interest in problem solving and debugging
--  Prefer improving and scaling existing systems over starting from scratch
--  Undergraduate student in Internet Systems at Unialfa
--  Constantly improving my English and technical skills
+ <img src="https://www.codewars.com/users/marcoskaiky/badges/large" />
+
+
+ my skills: <br>
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=typescript,javascript,nodejs,aws,docker,lambda,java,python,php,plsql,react,vuejs&titles=true)
-
-
-
-## Contact
-
--  LinkedIn: Marcos Kaiky  
--  Instagram: @marcosrogarcia   
--  Email: mkaikygarcia@gmail.com  
-
-
-<img src="https://www.codewars.com/users/marcoskaiky/badges/large" />
-
+ 

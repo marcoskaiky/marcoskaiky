@@ -1,5 +1,3 @@
-##  Hello, I'm Marcos Kaiky
-
 Back-End Developer focused on building and improving scalable systems.
 
 💻 I work mainly with:

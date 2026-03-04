@@ -12,8 +12,17 @@
 
  <img src="https://www.codewars.com/users/marcoskaiky/badges/large" />
 
-   <img width="49%" alt="Ville's GitHub stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=marcoskaiky&show_icons=true&theme=dark&custom_title=Estat%C3%ADsticas%20do%20GitHub" />
-   <img width="49%" alt="GitHub Streak" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marcoskaiky&layout=compact&theme=dark" />
+   <div style="display: flex; justify-content: space-between;">
+  <img 
+    width="49%" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=marcoskaiky&show_icons=true&theme=dark&custom_title=Estat%C3%ADsticas%20do%20GitHub" 
+  />
+  
+  <img 
+    width="49%" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marcoskaiky&layout=compact&theme=dark" 
+  />
+</div>
 
 
  my skills: <br>

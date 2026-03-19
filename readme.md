@@ -12,6 +12,7 @@
 
  <img src="https://www.codewars.com/users/marcoskaiky/badges/large" />
 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcoskaiky&layout=compact)
 
 
  my skills: <br>

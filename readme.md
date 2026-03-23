@@ -12,7 +12,7 @@
 
  <img src="https://www.codewars.com/users/marcoskaiky/badges/large" />
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcoskaiky&layout=compact)
+ <img width="49%" alt="GitHub Streak" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marcoskaiky&layout=compact&theme=tokyonight" />
 
 
  my skills: <br>

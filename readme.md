@@ -1,31 +1,47 @@
-### hey, I'm Marcos Kaiky 👋
+```bash
+$ curl https://marcoskaiky.dev | sh
+```
 
-Back-end developer from Brazil — currently studying Internet Systems at UniALFA.  
-I build APIs, break things, fix them, and learn something new every time.
+```
+███╗   ███╗ █████╗ ██████╗  ██████╗ ██████╗ ███████╗
+████╗ ████║██╔══██╗██╔══██╗██╔════╝██╔═══██╗██╔════╝
+██╔████╔██║███████║██████╔╝██║     ██║   ██║███████╗
+██║╚██╔╝██║██╔══██║██╔══██╗██║     ██║   ██║╚════██║
+██║ ╚═╝ ██║██║  ██║██║  ██║╚██████╗╚██████╔╝███████║
+╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚══════╝
+```
 
-```java
-var marcos = new Developer()
-    .role("Back-End Developer")
-    .stack("Java", "Spring Boot", "Node.js", "TypeScript")
-    .cloud("AWS")
-    .currentlyLearning("clean architecture, distributed systems")
-    .openTo("collaborations and new challenges");
+```bash
+> Fetching developer profile...
+
+  name     →  Marcos Kaiky
+  role     →  Back-End Developer
+  location →  Umuarama, Brazil
+  studying →  Internet Systems @ UniALFA
+  focus    →  APIs · Clean Architecture · Cloud
+
+> Installing dependencies...  ████████████████████  100%
+> Done. No errors found.
 ```
 
 ---
 
-**what I work with**
+**skills**
 
-`Java` `Spring Boot` `Node.js` `TypeScript` `Vue.js` `Docker` `AWS` `MySQL`
-
----
-
-**by the numbers**
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcoskaiky&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=888888&langs_count=6)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcoskaiky&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=888888&icon_color=ffffff&hide=stars,contribs&show=prs_merged)
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,ts,js,vue,docker,aws,mysql,git&theme=dark" />
+</p>
 
 ---
 
-<sub>always building · never settling</sub>
+**stats**
+
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoskaiky&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888&langs_count=6" />
+  &nbsp;
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=marcoskaiky&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888&icon_color=ffffff&hide=stars,contribs" />
+</p>
+
+---
+
+<sub>`status: always compiling`</sub>

@@ -1,114 +1,58 @@
 <div align="center">
-
-<br/>
-
-# `marcos-kaiky-v21`
-
-<p>Model Card &nbsp;·&nbsp; Back-End Developer &nbsp;·&nbsp; Brazil</p>
-
-<br/>
-
-<img src="https://img.shields.io/badge/status-active-111111?style=flat-square&labelColor=111111&color=333333" />
-&nbsp;
-<img src="https://img.shields.io/badge/version-21.0.0-111111?style=flat-square&labelColor=111111&color=333333" />
-&nbsp;
-<img src="https://img.shields.io/badge/license-open--to--work-111111?style=flat-square&labelColor=111111&color=333333" />
-&nbsp;
-<img src="https://img.shields.io/badge/caffeine-critical-111111?style=flat-square&labelColor=111111&color=333333" />
-
-<br/><br/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Marcos%20Kaiky&fontSize=60&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Back-End%20Developer&descAlignY=60&descSize=20&descColor=a8b2d8" width="100%"/>
 </div>
 
-<div align="center">
+<br/>
 
-```
-marcos-kaiky-v21 is a back-end focused developer model trained on real-world
-projects, late-night debugging sessions and too many Stack Overflow tabs.
-Optimized for API design, clean architecture and not breaking production.
+### 👨‍💻 Sobre mim
 
-Not recommended for: pixel-perfect CSS, Figma, or anything frontend-related.
+```ts
+const marcos = {
+  cargo:       "Back-End Developer",
+  faculdade:   "Sistemas para Internet — UniALFA",
+  tecnologias: ["JavaScript", "TypeScript", "Node.js", "Vue", "AWS"],
+  aprendendo:  ["Java", "English 🇺🇸"],
+  curiosidade: "Fã de Java e sempre buscando evoluir como profissional"
+};
 ```
 
+<br/>
+
+### 🛠️ Tecnologias & Ferramentas
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,ts,js,vue,react,python,php,docker,aws,mysql,git&theme=dark&perline=7" />
+</div>
+
+<br/>
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcoskaiky&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoskaiky&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+</div>
+
+<br/>
+
+### 📬 Contato
+
+<div align="center">
+  <a href="https://linkedin.com/in/marcoskaiky">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/marcosrogarcia">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:mkaikygarcia@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-
-| parameter | value |
-|:---|:---|
-| architecture | Back-End · REST APIs · Cloud |
-| training data | UniALFA · personal projects · Stack Overflow (5y) |
-| context window | unlimited — scales with caffeine intake |
-| inference speed | fast under pressure, slower on Mondays |
-| languages | Java · TypeScript · JavaScript |
-| frameworks | Spring Boot · Node.js · Vue.js |
-| deployment | Docker · AWS |
-| known limitations | frontend, design, work-life balance |
-| last updated | 2026 |
-
-</div>
-
-<br/>
-
-<div align="center">
-
-**training infrastructure**
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,ts,js,vue,docker,aws,mysql,git&theme=dark&perline=10" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-**benchmark results**
-
-<br/>
-
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoskaiky&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=555555&langs_count=6" />
-&nbsp;&nbsp;
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=marcoskaiky&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=555555&icon_color=ffffff&hide=stars,contribs" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-**known issues**
-
-<br/>
-
-```
-[x] struggles with frontend tasks
-[x] may over-engineer simple solutions  
-[x] performance degrades without coffee
-[ ] senior level  →  actively training
-```
-
-</div>
-
-<br/>
-
-<div align="center">
-
-**get in touch**
-
-<br/>
-
-```bash
-curl -X POST https://linkedin.com/in/marcoskaiky -d '{ "intent": "hire or collaborate" }'
-```
-
-<br/><br/>
-
-<sub>this model is open source · weights updated daily · no hallucinations (probably)</sub>
-
-<br/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=100&section=footer" width="100%"/>
 </div>

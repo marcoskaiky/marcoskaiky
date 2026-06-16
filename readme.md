@@ -21,7 +21,7 @@ const marcos = {
 ### 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,ts,js,vue,react,python,php,docker,aws,mysql,git&theme=dark&perline=7" />
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,ts,js,vue,react,python,php,docker,aws,mysql,git,langchain&theme=dark&perline=7" />
 </div>
 
 <br/>

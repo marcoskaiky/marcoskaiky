@@ -1,0 +1,9 @@
+# Os SVGs e o JSON sao gerados tanto no Windows (local) quanto no Linux (CI).
+# Travar em LF evita que o cron do Actions produza um diff do arquivo inteiro
+# so por causa de quebra de linha.
+*.svg   text eol=lf
+*.json  text eol=lf
+*.py    text eol=lf
+*.yml   text eol=lf
+*.md    text eol=lf
+*.png   binary

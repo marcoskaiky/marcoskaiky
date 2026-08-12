@@ -1,0 +1,10 @@
+# Dependencias so do pipeline de retrato (rodam localmente, quando voce troca a foto).
+# NAO sao instaladas pelo GitHub Actions.
+pillow==10.4.0
+numpy==1.26.4
+
+# Opcionais. Se instalados, prep_photo.py usa eles automaticamente:
+#   rembg          -> recorte de fundo por rede neural (baixa ~180MB de modelo no 1o uso)
+#   opencv-python  -> CLAHE nativo (o fallback em numpy ja da um resultado equivalente)
+# rembg==2.0.59
+# opencv-python==4.10.0.84

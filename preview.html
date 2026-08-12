@@ -1,0 +1,53 @@
+<!doctype html>
+<!--
+  Preview local do readme. Serve para conferir as animacoes sem dar push.
+
+      .venv/Scripts/python -m http.server 8765
+      # abra http://localhost:8765/preview.html
+
+  As larguras aqui sao as MESMAS do readme.md -- se mudar uma, mude a outra.
+-->
+<meta charset="utf-8">
+<title>preview - profile art</title>
+<style>
+  body { background:#0d1117; color:#c9d1d9; font-family:system-ui,sans-serif;
+         margin:0; padding:24px; }
+  .wrap { max-width:920px; margin:0 auto; text-align:center; }
+  h3 { font-family:ui-monospace,Consolas,monospace; font-weight:600; }
+  table { margin:0 auto; border-collapse:collapse; }
+  td { vertical-align:top; padding:0; }
+  button { font:inherit; padding:6px 14px; border-radius:6px; cursor:pointer;
+           background:#21262d; color:#c9d1d9; border:1px solid #30363d; }
+  #dims { font-family:ui-monospace,Consolas,monospace; font-size:12px;
+          color:#8b949e; white-space:pre; text-align:left; display:inline-block;
+          margin-top:24px; }
+</style>
+<div class="wrap">
+  <button onclick="location.reload()">replay</button>
+
+  <h3><code>marcos@github ~ $ ./contributions.sh</code></h3>
+  <img id="heat" src="./contrib-heatmap.svg" width="860" alt="heatmap">
+
+  <br><br>
+
+  <h3><code>marcos@github ~ $ whoami</code></h3>
+  <table><tr>
+    <td valign="top"><img id="port" src="./portrait-ascii.svg" width="370" alt="retrato"></td>
+    <td valign="top"><img id="card" src="./info-card.svg" width="490" alt="cartao"></td>
+  </tr></table>
+
+  <div id="dims"></div>
+</div>
+<script>
+  window.addEventListener('load', () => {
+    const rows = ['heat', 'port', 'card'].map(id => {
+      const img = document.getElementById(id);
+      const ok = img.complete && img.naturalWidth > 0;
+      return `${id.padEnd(5)} natural ${img.naturalWidth}x${img.naturalHeight}` +
+             `  exibido ${img.width}x${Math.round(img.getBoundingClientRect().height)}` +
+             `  ${ok ? 'OK' : 'FALHOU'}`;
+    });
+    document.getElementById('dims').textContent = rows.join('\n');
+    console.log(rows.join('\n'));
+  });
+</script>

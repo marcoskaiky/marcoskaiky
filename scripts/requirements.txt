@@ -1,0 +1,4 @@
+# Dependencias do fluxo diario (GitHub Actions).
+# Mantenha este arquivo minimo: ele e instalado a cada execucao do cron.
+requests==2.32.3
+beautifulsoup4==4.12.3

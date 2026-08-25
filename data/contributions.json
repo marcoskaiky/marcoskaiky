@@ -1,12 +1,12 @@
 {
   "username": "marcoskaiky",
-  "generated_at": "2026-08-24T07:31:55+00:00",
+  "generated_at": "2026-08-25T07:12:00+00:00",
   "range": {
     "from": "2025-08-24",
-    "to": "2026-08-24"
+    "to": "2026-08-25"
   },
-  "total": 104,
-  "total_label": "104 contributions in the last year",
+  "total": 105,
+  "total_label": "105 contributions in the last year",
   "days": [
     {
       "date": "2025-08-24",
@@ -1835,27 +1835,32 @@
     },
     {
       "date": "2026-08-24",
+      "count": 1,
+      "level": 1
+    },
+    {
+      "date": "2026-08-25",
       "count": 0,
       "level": 0
     }
   ],
   "stats": {
     "current_streak": {
-      "length": 12,
+      "length": 13,
       "start": "2026-08-12",
-      "end": "2026-08-23"
+      "end": "2026-08-24"
     },
     "longest_streak": {
-      "length": 12,
+      "length": 13,
       "start": "2026-08-12",
-      "end": "2026-08-23"
+      "end": "2026-08-24"
     },
     "best_day": {
       "date": "2026-06-15",
       "count": 18
     },
-    "active_days": 36,
-    "tracked_days": 366,
+    "active_days": 37,
+    "tracked_days": 367,
     "monthly": {
       "2025-08": 1,
       "2025-09": 7,
@@ -1869,7 +1874,7 @@
       "2026-05": 0,
       "2026-06": 36,
       "2026-07": 0,
-      "2026-08": 13
+      "2026-08": 14
     }
   }
 }
